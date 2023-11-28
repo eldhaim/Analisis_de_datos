@@ -20,6 +20,14 @@ Este proyecto no tiene la intención de especializarse en un tema particular ni 
 **Próximos Pasos:**
 Se planea continuar la expansión del proyecto abordando nuevos problemas y aplicando técnicas adicionales de análisis de datos. La documentación y los cambios en el repositorio reflejarán el progreso y las lecciones aprendidas en el camino.
 
+**Instalación local:**
+ejecutar en consola este comando en la raíz del proyecto para ejecutar la instalación de las librerias
+necesarias escritas en [requeriments.txt](https://github.com/eldhaim/Analisis_de_datos/blob/master/requeriments.txt)
+```
+pip install -r requirements.txt
+```
+
+
 ## Listado de proyectos
 
 1. **[Análisis de Natalidad: ](https://github.com/eldhaim/Analisis_de_datos/blob/master/Datos_a_obtener_por_estudio/natalidad.md)** 
