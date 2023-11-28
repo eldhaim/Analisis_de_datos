@@ -20,3 +20,9 @@ Este proyecto no tiene la intención de especializarse en un tema particular ni 
 **Próximos Pasos:**
 Se planea continuar la expansión del proyecto abordando nuevos problemas y aplicando técnicas adicionales de análisis de datos. La documentación y los cambios en el repositorio reflejarán el progreso y las lecciones aprendidas en el camino.
 
+## Listado de proyectos
+
+1. **[Análisis de Natalidad](https://github.com/eldhaim/Analisis_de_datos/blob/master/Datos_a_obtener_por_estudio/natalidad.md)**
+
+
+
