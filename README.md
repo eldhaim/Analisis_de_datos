@@ -22,7 +22,8 @@ Se planea continuar la expansión del proyecto abordando nuevos problemas y apli
 
 ## Listado de proyectos
 
-1. **[Análisis de Natalidad](https://github.com/eldhaim/Analisis_de_datos/blob/master/Datos_a_obtener_por_estudio/natalidad.md)**
+1. **[Análisis de Natalidad: ](https://github.com/eldhaim/Analisis_de_datos/blob/master/Datos_a_obtener_por_estudio/natalidad.md)** 
+   - [natalidad.ipynb](https://github.com/eldhaim/Analisis_de_datos/blob/master/natalidad.ipynb)
 
 
 
