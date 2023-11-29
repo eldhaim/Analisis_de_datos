@@ -1,3 +1,4 @@
+annotated-types==0.6.0
 anyio==4.0.0
 argon2-cffi==23.1.0
 argon2-cffi-bindings==21.2.0
@@ -11,6 +12,7 @@ bleach==6.1.0
 certifi==2023.7.22
 cffi==1.16.0
 charset-normalizer==3.3.2
+chess==1.10.0
 colorama==0.4.6
 comm==0.2.0
 contourpy==1.2.0
@@ -75,8 +77,11 @@ prompt-toolkit==3.0.41
 psutil==5.9.6
 pure-eval==0.2.2
 pycparser==2.21
+pydantic==2.5.2
+pydantic_core==2.14.5
 Pygments==2.16.1
 pyparsing==3.1.1
+python-chess==1.999
 python-dateutil==2.8.2
 python-json-logger==2.0.7
 pytz==2023.3.post1
