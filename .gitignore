@@ -1,6 +1,7 @@
 .idea
 *.py
 !objetos_logica_ajedrez/*.py
+pruebas.ipynb
 __pycache__
 venv
 .ipynb_checkpoints

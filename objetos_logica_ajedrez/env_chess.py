@@ -1,6 +1,7 @@
 import re
 
 TAG_PATTERN = re.compile(r"\[([^]]+)\s+\"([^\"]+)\"\]")
+TIME_PATTERN = re.compile(r'\[%clk\s+([\d:.]+)\]')
 TO_SQUARE = ('r', 'n', 'b', 'q')
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) "
@@ -41,3 +42,12 @@ FROM = "from"
 PIECE = "piece"
 TO = "to"
 CAPTURED = "captured"
+TIME = "time"
+ORDER = "order"
+LINK = "Link"
+WHITE_ELO = 'WhiteElo'
+BLACK_ELO = 'BlackElo'
+TERMINATION = "Termination"
+OPPONENTS = "opponents"
+OPPONENTS_NUMBER = "opponents_number"
+TCN = "tcn"
